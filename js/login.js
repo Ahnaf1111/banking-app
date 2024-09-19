@@ -7,7 +7,7 @@ document.getElementById('login-btn').addEventListener('click',function(event){
 
     if(mobileNumber==='5' && pinNumber==='1234'){
         console.log('hjkhdkjhjkd')
-        window.location.href="../home.html";
+        window.location.href="/banking-app/home.html";
     }
     else{
         alert('Enter correct Number or Password')
